@@ -1,0 +1,5 @@
+import simplegui
+import random
+
+def random_list():
+  card_num=ran
